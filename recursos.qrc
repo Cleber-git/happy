@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>take_movie.jpg</file>
+        <file>stitch.jpg</file>
+        <file>images.jpeg</file>
+        <file>btn_core.png</file>
+        <file>lov.png</file>
+        <file>back_image.jpeg</file>
+        <file>azul_pastel.jpg</file>
+    </qresource>
+    <qresource prefix="/new/icons">
+        <file>tia.png</file>
+        <file>mulher.png</file>
+        <file>idosos.png</file>
+        <file>homem.png</file>
+        <file>girld.png</file>
+        <file>careca.png</file>
+        <file>caixa-surpresa.png</file>
+        <file>cabelo-cacheado.png</file>
+        <file>menina.png</file>
+        <file>black_girl.png</file>
+    </qresource>
+</RCC>
