@@ -94,7 +94,7 @@ background: grey ;
            <string notr="true">
 
 QPushButton{
-border-image: url(:/new/icons/idosos.png);
+	border-image: url(:/new/icons/homem-e-mulher.png);
 background-color: rgb(255, 255, 255);
 }
 
@@ -118,7 +118,7 @@ background: grey ;
           <property name="styleSheet">
            <string notr="true">
 QPushButton{
-border-image: url(:/new/icons/tia.png);
+	border-image: url(:/new/icons/cabelo-ondulado.png);
 background-color: rgb(255, 255, 255);
 }
 
@@ -271,7 +271,7 @@ background: grey ;
     </font>
    </property>
    <property name="text">
-    <string>❤️REPI BORDEI THU IU ❤️</string>
+    <string>❤️Parabéns Meu Amor❤️</string>
    </property>
   </widget>
  </widget>

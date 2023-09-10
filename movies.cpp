@@ -35,3 +35,13 @@ void movies::on_pushButton_9_clicked()
 
 }
 
+
+void movies::on_pushButton_3_clicked()
+{
+    QString path_Html = "/home/cleber/Documentos/movie/Seu_Otávio.html";
+
+    QProcess process;
+    process.startDetached("xdg-open", QStringList() << path_Html);
+    qDebug()<< "checkando o qDebug do qt";
+}
+
