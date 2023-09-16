@@ -10,5 +10,7 @@ int main(int argc, char *argv[])
     QPoint pos(800, 30);
     w.move(pos);
     w.show();
+
+
     return a.exec();
 }

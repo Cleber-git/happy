@@ -56,33 +56,6 @@ background: grey ;
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="pushButton_2">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="styleSheet">
-           <string notr="true">
-QPushButton{
-border-image: url(:/new/icons/menina.png);
-
-background-color: rgb(255, 255, 255);
-}
-
-
-
-QPushButton:hover{
-background: grey ;
-}</string>
-          </property>
-          <property name="text">
-           <string/>
-          </property>
-         </widget>
-        </item>
-        <item>
          <widget class="QPushButton" name="pushButton_3">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
@@ -147,7 +120,7 @@ background: grey ;
           <property name="styleSheet">
            <string notr="true">
 QPushButton{
-border-image: url(:/new/icons/careca.png);
+border-image: url(:/new/icons/gu_grazi.png);
 background-color: rgb(255, 255, 255);
 
 }
@@ -164,15 +137,19 @@ background: grey;
         <item>
          <widget class="QPushButton" name="pushButton_6">
           <property name="sizePolicy">
-           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
             <horstretch>0</horstretch>
             <verstretch>0</verstretch>
            </sizepolicy>
           </property>
           <property name="styleSheet">
-           <string notr="true">QPushButton{border-image: url(:/new/icons/mulher.png);
+           <string notr="true">
+QPushButton{
+	border-image: url(:/new/icons/black_girl.png);
 background-color: rgb(255, 255, 255);
 }
+
+
 
 QPushButton:hover{
 background: grey ;
@@ -184,7 +161,7 @@ background: grey ;
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="pushButton_7">
+         <widget class="QPushButton" name="pushButton_2">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
             <horstretch>0</horstretch>
@@ -192,10 +169,14 @@ background: grey ;
            </sizepolicy>
           </property>
           <property name="styleSheet">
-           <string notr="true">QPushButton{
-	border-image: url(:/new/icons/black_girl.png);
+           <string notr="true">
+QPushButton{
+border-image: url(:/new/icons/menina.png);
+
 background-color: rgb(255, 255, 255);
 }
+
+
 
 QPushButton:hover{
 background: grey ;
@@ -215,7 +196,7 @@ background: grey ;
            </sizepolicy>
           </property>
           <property name="styleSheet">
-           <string notr="true">QPushButton{border-image: url(:/new/icons/cabelo-cacheado.png);
+           <string notr="true">QPushButton{border-image: url(:/new/icons/garoto.png);
 background-color: rgb(255, 255, 255);}
 
 QPushButton:hover{
